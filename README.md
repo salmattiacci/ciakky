@@ -14,6 +14,7 @@ This repository aims to provide a collection of Python scripts and tools designe
 **How to Use:**
 
   **Install Dependencies:** 
+  
   Ensure you have Python installed. Then, install the required libraries using pip:
    ```bash
   pip install pyttsx3 PyPDF2 re speech_recognition
